@@ -18,6 +18,6 @@ void mul(int a,int b)
 
 int main(int argc, char * argv[])
 {
-add(2,2);
+add(2,22);
 sub(2,2);
 }
