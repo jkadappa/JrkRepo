@@ -21,4 +21,5 @@ int main(int argc, char * argv[])
 add(2,22);
 sub(2,24);
 mul(2,2);
+add(3,5);
 }
