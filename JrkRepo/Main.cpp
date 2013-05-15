@@ -19,6 +19,6 @@ void mul(int a,int b)
 int main(int argc, char * argv[])
 {
 add(2,22);
-sub(2,2);
+sub(2,24);
 mul(2,2);
 }
